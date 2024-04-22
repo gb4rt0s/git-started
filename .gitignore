@@ -1,0 +1,4 @@
+#folder ignore
+temp/
+#filetype ignore
+*.tmp
